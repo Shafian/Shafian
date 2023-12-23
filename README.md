@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Al Shafian Bari</h1>
-<h3 align="center">A passionate frontend student studying computer science at City College's Grove School of Engineering</h3>
+<h3 align="center">A passionate student studying computer science at City College's Grove School of Engineering</h3>
 
 - 🌱 I’m currently learning **more about react**
 
